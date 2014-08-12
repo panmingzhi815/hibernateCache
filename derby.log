@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 12 23:52:41 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0147-caeb-dd20-00000063f7d8 
+on database directory H:\GitHub\hibernateCache\spring_hibernate_2 with class loader sun.misc.Launcher$AppClassLoader@918c34 
+Loaded from file:/E:/java/apache-maven-3.0.5/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=H:\GitHub\hibernateCache
+os.name=Windows 8
+os.arch=x86
+os.version=6.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3336413839">
+    <data-source source="LOCAL" name="itcast" uuid="3a209a7d-369c-496d-b2f6-58ee23cd21de">
+      <jdbc-driver>org.gjt.mm.mysqlDriver</jdbc-driver>
+      <jdbc-url>jdbc.mysql://localhost:3306/testdatabase?useUnicode=true&amp;characterEncoding=UTF-8</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="derby" uuid="b8d6e314-bc98-4593-9824-da7b8594e402">
+      <driver-ref>derby.embedded</driver-ref>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:spring_hibernate_2;create=true</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://E:\java\apache-maven-3.0.5\repository\org\apache\derby\derby\10.10.2.0\derby-10.10.2.0.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
